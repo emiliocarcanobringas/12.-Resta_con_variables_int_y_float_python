@@ -1,1 +1,1 @@
-# 12.-Resta_con_variables_int_y_float_python
+# Este programa muestra una resta con variables de tipo int y tipo float
